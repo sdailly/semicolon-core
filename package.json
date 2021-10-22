@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Stephane Dailly",
-  "license": "ISC"
+  "author": "Stephane Dailly <daillystephane@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdailly/semicolon-core.git"
+  }
 }
